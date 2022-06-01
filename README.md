@@ -36,3 +36,50 @@ See [folder-structure.md](./physical-folder-structure.md)
 
 I propose to store these as markdown files at the moment.
 See [folder-structure.md](./documentation-structure.md)
+
+<pre>
+<code>
+root/
+├─ Policies and Registers/
+│  ├─ Registers/
+│  │  ├─ <a href="https://github.com/gostega/itops-framework/blob/main/Documentation%20Structure/Registers/Register%20of%20Documents.md">Register of Documents.md</a>
+│  │  ├─ Register of Shares and Folders.md</a>
+│  │  ├─ Register of Known Security Issues.md</a>
+│  │  ├─ Register of Physical Media.md</a>
+│  │  ├─ Register of Credit Card Usage.md</a>
+│  │  └─ Register of Business Information.md</a>
+│  ├─ Policies/
+│  │  ├─ Terms and Definitions.md</a>
+│  │  ├─ Asset Policies and Principles.md</a>
+│  │  ├─ Archive and Backup Disk Policy.md</a>
+│  │  ├─ Data Protection and Privacy.md</a>
+│  │  ├─ Data Retention Lifecycle.md</a>
+│  │  ├─ Corporate Account Security.md</a>
+│  │  ├─ Staff Password Policy.md</a>
+│  │  └─ AWS Resource Policy.md</a>
+│  ├─ Specifications and Reference Tables/
+│  │  ├─ Asset Labelling Conventions.md</a>
+│  │  ├─ Naming Conventions.md</a>
+│  │  ├─ Service Importance Levels.md</a>
+│  │  ├─ Network Patch Lead Specs.md</a>
+│  │  └─ IT Worklog Breakdown</a>
+├─ Appliances/
+│  ├─ Appliance Template.md
+│  ├─ Dell Equalogic.md
+│  └─ UPS - APC.md
+├─ Apps/
+│  ├─ aduc.tf
+│  └─ dns.tf
+├─ Configuration Items/
+├─ Change/
+├─ Fixes/
+├─ Goals & Strategy/
+├─ Procedures/
+├─ Resources/
+├─ Security/
+├─ Services/
+├─ Software/
+├─ User Management/
+└─ README.md
+</code>
+</pre>
