@@ -40,6 +40,5 @@ root/
 ├─ Services/
 ├─ Software/
 ├─ User Management/
-
 └─ README.md
 ```
